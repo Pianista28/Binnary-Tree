@@ -1,0 +1,12 @@
+﻿  Menu.cpp
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(137): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(205): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\jan\documents\visual studio 2015\projects\drzewa2\drzewa2\menu.cpp(215): warning C4018: '<': signed/unsigned mismatch
+  Drzewa2.vcxproj -> C:\Users\Jan\documents\visual studio 2015\Projects\Drzewa2\Debug\Drzewa2.exe
+  Drzewa2.vcxproj -> C:\Users\Jan\documents\visual studio 2015\Projects\Drzewa2\Debug\Drzewa2.pdb (Partial PDB)
